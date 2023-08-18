@@ -1,1 +1,1 @@
-# Machine Failures Kaggle Playground
+# <div align='center'> Machine Failures Kaggle Playground </div>
