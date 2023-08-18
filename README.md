@@ -1,1 +1,1 @@
-# Machine-Failures-Kaggle-Playground
+# Machine Failures Kaggle Playground
